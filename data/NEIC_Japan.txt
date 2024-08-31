@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-18T15:50:49.603Z,36.7123,140.4958,35,5,mb,46,122,1.851,0.53,us,us7000n7tb,2024-08-19T04:04:57.288Z,"14 km ESE of Daigo, Japan",earthquake,8.52,1.918,0.029,381,reviewed,us,us
+2024-08-18T15:48:21.780Z,36.7981,140.4916,35,4.7,mb,48,119,1.853,0.63,us,us7000n7ta,2024-08-18T16:32:49.040Z,"13 km ENE of Daigo, Japan",earthquake,4.05,1.91,0.05,121,reviewed,us,us
+2024-08-17T06:32:09.394Z,32.4651,142.3967,10,5.2,mww,129,100,2.27,0.66,us,us7000n7kx,2024-08-17T06:47:38.040Z,"Izu Islands, Japan region",earthquake,7.49,1.755,0.073,18,reviewed,us,us
+2024-08-17T00:33:28.899Z,38.5728,141.8918,53.028,4.8,mb,78,124,2.304,0.9,us,us7000n7jh,2024-08-17T00:49:01.040Z,"41 km ENE of Onagawa Chō, Japan",earthquake,4.61,7.191,0.066,71,reviewed,us,us
+2024-08-16T15:57:17.741Z,44.0283,146.4285,98.241,4.5,mb,41,134,2.766,0.75,us,us7000n7ft,2024-08-16T16:57:51.040Z,"34 km NW of Shikotan, Russia",earthquake,9.96,8.024,0.054,99,reviewed,us,us
+2024-08-16T13:06:01.932Z,36.3166,134.836,10,4.4,mb,23,77,2.026,0.64,us,us7000n7dx,2024-08-16T14:33:16.732Z,"83 km NNW of Kameshima, Japan",earthquake,7.29,1.906,0.149,13,reviewed,us,us
+2024-08-15T11:20:35.359Z,35.419,139.2285,21.374,4.5,mb,33,116,1.398,0.86,us,us7000n750,2024-08-16T01:50:55.042Z,"5 km N of Hadano, Japan",earthquake,3.08,5.734,0.108,25,reviewed,us,us
+2024-08-15T04:50:58.520Z,30.9965,131.5358,39.208,4.5,mb,42,125,1.059,1.36,us,us7000n73m,2024-08-15T05:27:42.040Z,"58 km ENE of Nishinoomote, Japan",earthquake,6.69,7.854,0.11,24,reviewed,us,us
+2024-08-13T17:37:18.370Z,31.9827,142.443,10,4.7,mb,117,65,2.491,0.73,us,us6000njv7,2024-08-13T18:57:10.040Z,"Izu Islands, Japan region",earthquake,8.69,1.842,0.047,135,reviewed,us,us
+2024-08-12T18:47:05.687Z,43.142,146.8461,68.07,4.5,mb,54,135,2.948,0.55,us,us6000njnt,2024-08-12T19:10:46.040Z,"73 km S of Shikotan, Russia",earthquake,4.44,7.382,0.076,51,reviewed,us,us
+2024-08-12T05:03:15.045Z,41.1617,143.2832,35,4.4,mb,27,134,0.858,1.16,us,us6000njjt,2024-08-12T09:32:17.351Z,"111 km SSE of Honchō, Japan",earthquake,4.72,1.923,0.134,16,reviewed,us,us
